@@ -19,3 +19,6 @@
 
 ![](https://github.com/amra/notes/blob/master/memes/i-do-not-think-this-is-how-trains-works.jpg)
 <br/>I don’t think that’s how trains work. [source](https://twitter.com/_youhadonejob1/status/1071974283713396736/photo/1)
+
+![](https://github.com/amra/notes/blob/master/memes/listening-to-feedback.jpg)
+<br/>listening to feedback [source](https://twitter.com/iamdevloper/status/1072071212325617664/photo/1)
