@@ -68,3 +68,6 @@ Filament Dryer – All You Need to Know: https://m.all3dp.com/2/filament-dryer-a
 ## Printers
 Ceramics:
 - CERAMBOT: [kickstarter](https://www.kickstarter.com/projects/210413417/cerambot-the-most-affordable-ceramic-3d-printer/description) + [all3dp](https://all3dp.com/4/cerambot-delta-style-ceramic-3d-printer-smashing-thrits-kickstarter-goal/)
+
+## 3D Scanner
+- [3d-digitizer](http://blog.dzl.dk/2018/08/21/3d-digitizer/) + [hackaday](https://hackaday.com/2018/12/21/manual-3d-digitizer-works-a-bit-like-3-dimensional-measuring-tape/)
