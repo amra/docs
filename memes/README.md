@@ -22,3 +22,6 @@
 
 ![](https://github.com/amra/notes/blob/master/memes/listening-to-feedback.jpg)
 <br/>listening to feedback [source](https://twitter.com/iamdevloper/status/1072071212325617664/photo/1)
+
+![](https://github.com/amra/notes/blob/master/memes/danger-repetitive.mp4)
+<br/>repetitive danger [source](https://twitter.com/KaptanHindustan/status/1071775252336820225/video/1)
