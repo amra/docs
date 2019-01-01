@@ -26,6 +26,7 @@ Postprocessing of 3D prints step-by-step: https://www.prusaprinters.org/postproc
 
 ## Smoothing 
 - PLA Smoothing 3D Prints with 3D Gloop: https://www.youtube.com/watch?v=vQc5TBPF8uw
+  - [Vapor Smoothing 3D Printed Parts - PLA, colorFabb, XT, T-Glase, PET+](https://www.printedsolid.com/blogs/news/37035395-vapor-smoothing-3d-printed-parts-pla-colorfabb-xt-t-glase-pet)
 - Acetone for ABS (nail polisher)
 - Polymaker Polysher: http://www.polymaker.com/shop/polysmoothpolysher/
 - Zortrax Apoller Smart Vapor Smoothing Device
