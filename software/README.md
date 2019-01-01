@@ -3,3 +3,6 @@
 
 # Photo 
 - https://www.remove.bg/ Remove Image Background
+
+# Windows
+- [ninite](https://ninite.com/) - Install and Update All Your Programs at Once
