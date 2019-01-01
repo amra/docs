@@ -28,6 +28,9 @@ Postprocessing of 3D prints step-by-step: https://www.prusaprinters.org/postproc
 - PLA Smoothing 3D Prints with 3D Gloop: https://www.youtube.com/watch?v=vQc5TBPF8uw
 - Acetone for ABS (nail polisher)
 - Polymaker Polysher: http://www.polymaker.com/shop/polysmoothpolysher/
+- Zortrax Apoller Smart Vapor Smoothing Device
+  - https://zortrax.com/post-processing/apoller/
+  - https://all3dp.com/1/zortrax-apoller-review-specs-smart-vapor-smoothing-device/
 
 ## Coating
 - XTC-3D: https://www.smooth-on.com/product-line/xtc-3d/
