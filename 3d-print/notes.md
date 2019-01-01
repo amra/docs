@@ -52,13 +52,17 @@ Filament Dryer – All You Need to Know: https://m.all3dp.com/2/filament-dryer-a
 
 # Software
 - [STL File Converter – 12 Best Tools to Convert STL Files](https://m.all3dp.com/2/stl-file-converter-12-best-tools-to-convert-stl-files/)
-- [AliceVision](https://alicevision.github.io/) + [meshroom](https://github.com/alicevision/meshroom) is a free, open-source 3D Reconstruction Software based on the AliceVision Photogrammetric Computer Vision framework.
+- [AliceVision](https://alicevision.github.io/) + [meshroom](https://github.com/alicevision/meshroom) is a free, open-source 3D Reconstruction Software based on the AliceVision Photogrammetric Computer Vision framework. + [prusa tutorial](https://www.prusaprinters.org/photogrammetry-2-3d-scanning-simpler-better-than-ever/)
 
 # Printer & tweaks
 ## Tweaks
 - How to Turn Your Creality 3D Printer into an Engraving Tool: https://all3dp.com/1/weekend-project-turn-creality-3d-printer-engraving-tool/
   - video: https://www.youtube.com/watch?v=xoji-oqLSCY
 - [Cut Plywood with a 3D Printer](https://www.youtube.com/watch?v=Ot_ATLvjAzE)
+
+## Enclosure
+- [Prusa i3 MK3 Enclosure – The Easiest Ways to Build or Buy One](https://all3dp.com/2/prusa-i3-mk3-enclosure-the-easiest-ways-to-build-or-buy-one/)
+- [HOW TO BUILD A SIMPLE, CHEAP ENCLOSURE FOR YOUR 3D PRINTER](https://www.prusaprinters.org/cheap-simple-3d-printer-enclosure/)
 
 ## Printers
 Ceramics:
