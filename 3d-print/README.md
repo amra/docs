@@ -74,6 +74,7 @@ Models for 3d printing
   - [Hello Kitty Planter - now small and medium size!](https://www.thingiverse.com/thing:3128137)
   - [Smiling Owl Pot v2](https://www.thingiverse.com/thing:2386370)
 - [Arduino 3D Wire Bending Machine](https://howtomechatronics.com/projects/arduino-3d-wire-bending-machine/) + [video](https://www.youtube.com/watch?v=HPQbKTJPsU4)
+- [stepper motor](https://www.youtube.com/watch?v=U2HRJoyK8es)
 
 ## List
 - [30 Best Raspberry Pi Projects (You Can DIY with a 3D Printer)](https://all3dp.com/1/best-raspberry-pi-projects-3d-printer/)
