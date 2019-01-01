@@ -53,6 +53,7 @@ Filament Dryer – All You Need to Know: https://m.all3dp.com/2/filament-dryer-a
 # Software
 - [STL File Converter – 12 Best Tools to Convert STL Files](https://m.all3dp.com/2/stl-file-converter-12-best-tools-to-convert-stl-files/)
 - [AliceVision](https://alicevision.github.io/) + [meshroom](https://github.com/alicevision/meshroom) is a free, open-source 3D Reconstruction Software based on the AliceVision Photogrammetric Computer Vision framework. + [prusa tutorial](https://www.prusaprinters.org/photogrammetry-2-3d-scanning-simpler-better-than-ever/)
+- [OpenScad Tips and Tricks](https://www.youtube.com/watch?v=Ft7mEMobFnM)
 
 # Printer & tweaks
 ## Tweaks
