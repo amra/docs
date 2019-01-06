@@ -25,3 +25,6 @@
 
 ![](https://github.com/amra/notes/blob/master/memes/danger-repetitive.mp4)
 <br/>repetitive danger [source](https://twitter.com/KaptanHindustan/status/1071775252336820225/video/1)
+
+![](https://github.com/amra/notes/blob/master/memes/better-technique.mp4)
+<br/>better technique [source](https://twitter.com/TheFigen/status/1081204377833144321/video/1)
