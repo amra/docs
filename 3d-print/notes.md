@@ -39,6 +39,9 @@ Postprocessing of 3D prints step-by-step: https://www.prusaprinters.org/postproc
   - Fast Drying Polyurethane - Clear Satin
   - spray paint that bonds well to plastic
 
+# Technique
+- [experimental 0.15mm nozzle from E3D](https://www.reddit.com/r/3Dprinting/comments/ac8aia/had_some_success_with_the_experimental_015mm/)
+
 # Filament Storage / Filament Dryer
 Filament Dryer – All You Need to Know: https://m.all3dp.com/2/filament-dryer-all-you-need-to-know/
 
