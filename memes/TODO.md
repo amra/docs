@@ -9,3 +9,4 @@ https://twitter.com/headinthebooth/status/1092096892094296064/photo/1
 https://twitter.com/bendhalpern/status/1092070010745319428/photo/1
 https://twitter.com/crystallyn/status/1091372175133675525/photo/1
 https://twitter.com/Brilliant_Ads/status/1092480294375079936/photo/1
+https://www.hatefree.cz/blo/hf-zpravy/3075-mrzuta-zviratka
