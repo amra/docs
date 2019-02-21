@@ -64,6 +64,7 @@ Models for 3d printing
 - motor models
   - [Turboprop Engine](https://www.thingiverse.com/thing:3014536)
   - [Working Gear Driven 4WD Toyota Transfer Case Model](https://www.thingiverse.com/thing:824415) + [Toyota 4 Cylinder Engine 22RE](https://www.thingiverse.com/thing:644933) + [transmission](https://www.thingiverse.com/thing:713815)
+  - [3D Printed Engines – The 7 Most Advanced](https://m.all3dp.com/2/3d-printed-engine-the-7-most-advanced/)
 - [3D Printed Box – 10 Great Curated Models to 3D Print](https://all3dp.com/2/3d-printed-box-10-best-curated-models-to-3d-print/)
 - Tripod
   - [Phone Tripod Mount (Universal)](https://www.thingiverse.com/thing:2329858)
@@ -76,6 +77,9 @@ Models for 3d printing
 - [Arduino 3D Wire Bending Machine](https://howtomechatronics.com/projects/arduino-3d-wire-bending-machine/) + [video](https://www.youtube.com/watch?v=HPQbKTJPsU4)
 - [stepper motor](https://www.youtube.com/watch?v=U2HRJoyK8es)
 - [FRILLER SHAPE-CHANGING ROBOT](https://www.raspberrypi.org/magpi/friller-shape-changing-robot/) + [github](https://github.com/IeiuniumLux/FRILLER)
+- [Ball Balancing PID System](https://www.instructables.com/id/Ball-Balancing-PID-System/)
+- [PRINT YOUR OWN PORTABLE BOOMBOX](https://www.prusaprinters.org/print-your-own-portable-boombox/)
+- [3D Printed Speaker – 6 Projects That Rock the Most](https://all3dp.com/2/3d-printed-speaker-6-projects-that-rock-the-most/)
 
 ## List
 - [30 Best Raspberry Pi Projects (You Can DIY with a 3D Printer)](https://all3dp.com/1/best-raspberry-pi-projects-3d-printer/)
