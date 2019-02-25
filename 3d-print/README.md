@@ -80,6 +80,12 @@ Models for 3d printing
 - [Ball Balancing PID System](https://www.instructables.com/id/Ball-Balancing-PID-System/)
 - [PRINT YOUR OWN PORTABLE BOOMBOX](https://www.prusaprinters.org/print-your-own-portable-boombox/)
 - [3D Printed Speaker – 6 Projects That Rock the Most](https://all3dp.com/2/3d-printed-speaker-6-projects-that-rock-the-most/)
+- [3D Printed X-Ray Machine](https://hackaday.io/project/162928-3d-printed-x-ray-machine) + [hackaday.com](https://hackaday.com/2018/12/24/ambitious-homebrew-x-ray-machine-reveals-what-lies-within/)
+- [woodworking jigs](https://youtu.be/lpc5kiBCOV8)
+
+### Closed source
+- [This Man 3D-Printed His Own Sports Wheelchair](https://www.youtube.com/watch?v=V6lTUFkoHnE)
+
 
 ## List
 - [30 Best Raspberry Pi Projects (You Can DIY with a 3D Printer)](https://all3dp.com/1/best-raspberry-pi-projects-3d-printer/)
