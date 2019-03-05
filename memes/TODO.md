@@ -20,7 +20,7 @@ https://twitter.com/Crazyinnasia/status/1084578477209239553/photo/1
 https://twitter.com/spazef0rze/status/1082440747931049984/photo/1
 https://twitter.com/Crazyinnasia/status/1080161260224823296/photo/1
 https://mobile.twitter.com/Crazyinnasia/status/1039206352156012546
-
+https://twitter.com/Brilliant_Ads/status/1102511006469840897/photo/1
 
 Fun:
 https://twitter.com/welcomet0nature/status/1098765065585594368/video/1
