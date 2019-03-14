@@ -40,6 +40,10 @@ Postprocessing of 3D prints step-by-step: https://www.prusaprinters.org/postproc
   - Fast Drying Polyurethane - Clear Satin
   - spray paint that bonds well to plastic
 
+## Tools
+* [Modifi3d Pro is a Heated Tool for Finishing Your 3D Prints](https://all3dp.com/4/modifi3d-pro-heated-tool-finishing-3d-prints/) + [kickstarter](https://www.kickstarter.com/projects/steelmans/modifi3d-pro-enhanced-3d-print-finishing-tool)
+* [3d pen 3DSimo](https://3dsimo.com/)
+
 # Technique
 - [experimental 0.15mm nozzle from E3D](https://www.reddit.com/r/3Dprinting/comments/ac8aia/had_some_success_with_the_experimental_015mm/)
 
