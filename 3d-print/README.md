@@ -82,6 +82,7 @@ Models for 3d printing
 - [3D Printed Speaker – 6 Projects That Rock the Most](https://all3dp.com/2/3d-printed-speaker-6-projects-that-rock-the-most/)
 - [3D Printed X-Ray Machine](https://hackaday.io/project/162928-3d-printed-x-ray-machine) + [hackaday.com](https://hackaday.com/2018/12/24/ambitious-homebrew-x-ray-machine-reveals-what-lies-within/)
 - [woodworking jigs](https://youtu.be/lpc5kiBCOV8)
+- [Six-Axis Robot Arm](https://www.thingiverse.com/thing:3327968) + [all3dp](https://all3dp.com/2/weekend-project-six-axis-robot-arm/)
 
 ### Closed source
 - [This Man 3D-Printed His Own Sports Wheelchair](https://www.youtube.com/watch?v=V6lTUFkoHnE)
