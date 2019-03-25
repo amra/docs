@@ -83,6 +83,7 @@ Models for 3d printing
 - [3D Printed X-Ray Machine](https://hackaday.io/project/162928-3d-printed-x-ray-machine) + [hackaday.com](https://hackaday.com/2018/12/24/ambitious-homebrew-x-ray-machine-reveals-what-lies-within/)
 - [woodworking jigs](https://youtu.be/lpc5kiBCOV8)
 - [Six-Axis Robot Arm](https://www.thingiverse.com/thing:3327968) + [all3dp](https://all3dp.com/2/weekend-project-six-axis-robot-arm/)
+- [LIGHT UP YOUR 3D PRINTS WITH LEDS AND BULBS!](https://www.prusaprinters.org/3d-printing-lamps-and-embedding-led-lights/) by prusaprinters
 
 ### Closed source
 - [This Man 3D-Printed His Own Sports Wheelchair](https://www.youtube.com/watch?v=V6lTUFkoHnE)
