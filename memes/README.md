@@ -31,3 +31,6 @@
 
 ![](https://github.com/amra/notes/blob/master/memes/monkey-working.jpg)
 <br/>working monkey [source](https://twitter.com/CrazyGloble/status/1080973226166099968/photo/1) [wikipedia](https://en.wikipedia.org/wiki/Jack_(baboon))
+
+![](https://github.com/amra/notes/blob/master/memes/facing-reality.jpg)
+<br/>Facing Reality, Pleneau Island, Antarctic Peninsula (First Place In Animals In Their Environment Category) [source](http://thefrogo.com/photography/stunning-pictures-that-won-the-2018-siena-international-photo-awards/7/)
