@@ -47,7 +47,7 @@ Models for 3d printing
     - [OpenFlexure Microscope](http://docubricks.com/viewer.jsp?id=9134926926759813120#brick_909106319)
     - [A one-piece 3D printed flexure translation stage for open-source microscopy](https://aip.scitation.org/doi/10.1063/1.4941068)
   - [Open-source do-it-yourself multi-color fluorescence smartphone microscopy](https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-8-11-5075&id=375614)
-    - [files](https://figshare.com/articles/_/5313643) 
+    - [files](https://figshare.com/articles/_/5313643)
     - [Fabricating optical lenses by inkjet printing and heat-assisted in situ curing of polydimethylsiloxane for smartphone microscopy](https://www.spiedigitallibrary.org/journals/Journal-of-Biomedical-Optics/volume-20/issue-04/047005/Fabricating-optical-lenses-by-inkjet-printing-and-heat-assisted-in/10.1117/1.JBO.20.4.047005.full?SSO=1)
     - [all3dp article](https://all3dp.com/researchers-smartphone-microscope/)
   - [FlyPi](https://open-labware.net/projects/flypi/)
@@ -91,6 +91,7 @@ Models for 3d printing
 
 ## List
 - [30 Best Raspberry Pi Projects (You Can DIY with a 3D Printer)](https://all3dp.com/1/best-raspberry-pi-projects-3d-printer/)
+- [3D Printed Cup – 5 Best Curated Models](https://all3dp.com/2/3d-printed-cup-best-curated-models/)
 
 ## Places
 - [3D Print Your Local Area from Google Earth using Still Shots and Photogrammetry](https://all3dp.com/4/3d-print-local-area-google-earth-using-still-shots-photogrammetry/) + [reddit.com](https://www.reddit.com/r/3Dprinting/comments/9410ab/coworkers_and_i_figured_out_how_to_make_fullcolor/)
@@ -117,7 +118,7 @@ Models for 3d printing
 - [10 Cool Custom Keychains You Can 3D Print](https://all3dp.com/1/cool-custom-keychains-to-3d-print/)
 - [Make a Carabiner Clip: 7 Useful Designs to 3D Print](https://all3dp.com/1/make-carabiner-clip-useful-3d-print/)
 - [30 Barbie Accessories You Can’t Buy in a Shop](https://m.all3dp.com/1/barbie-accessories-3d-print-diy/)
-- [Med3DP](https://www.med3dp.com/)  is an initiative to develop on-demand medical devices for humanitarian healthcare using 3D printing technology. 
+- [Med3DP](https://www.med3dp.com/)  is an initiative to develop on-demand medical devices for humanitarian healthcare using 3D printing technology.
 - RPi case
   - [Krabičky pro váš vlastní NAS a/nebo Multimediální centrum s RaspberryPi/BananaPi/OrangePi](https://chiptron.cz/articles.php?article_id=133#comment-3764178438)
   - [30 Fantastic Raspberry Pi 3 Cases to 3D Print](https://all3dp.com/1/best-3d-printed-raspberry-pi-case-3d-print-3d-model/)
@@ -194,3 +195,6 @@ Software to generate cookie cutter models:
 - [The Elder Lighthouse](https://www.myminifactory.com/object/3d-print-the-elder-lighthouse-71894)
 - [Secret Butterfly Box](https://www.thingiverse.com/thing:2977908)
 - [Tom's Fully Printable Filament Box V2 with (optional) Hygrometer](https://www.thingiverse.com/thing:3016906)
+
+Inspiration
+- [New devices morph and transform - like Iron Man's suit](https://www.youtube.com/watch?v=CdPLzA4xIF0)

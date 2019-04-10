@@ -34,3 +34,17 @@
 
 ![](https://github.com/amra/notes/blob/master/memes/facing-reality.jpg)
 <br/>Facing Reality, Pleneau Island, Antarctic Peninsula (First Place In Animals In Their Environment Category) [source](http://thefrogo.com/photography/stunning-pictures-that-won-the-2018-siena-international-photo-awards/7/)
+
+![](https://github.com/amra/notes/blob/master/memes/star-i-feel-dizzy.gif)
+<br/>I feel dizzy (Lego movie 2) [source](https://tenor.com/view/vomit-throw-up-puke-spew-the-lego-movie2-gif-13480387)
+
+![](https://github.com/amra/notes/blob/master/memes/star-i-feel-dizzy-2.gif)
+<br/>I feel dizzy 2 (Lego movie 2) [source](https://tenor.com/view/ifeel-dizzy-vomit-throw-up-puke-spew-gif-13480349)
+
+![](https://github.com/amra/notes/blob/master/memes/test-coverage.jpg)
+<br/>test coverage [source](https://twitter.com/tlakomy/status/1111163601925095424/photo/1)
+
+<!--
+![](https://github.com/amra/notes/blob/master/memes/XXX)
+<br/>XXX [source]()
+-->

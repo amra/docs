@@ -1,4 +1,7 @@
-# Joining prints together 
+# Printing
+- [How to print with flexible filament](https://www.prusaprinters.org/how-to-print-with-flexible-filament/) by prusaprinters.org
+
+# Joining prints together
 If print size of your 3D printer is not big enought there are some other posibilities
 
 ## Joing using plastic
@@ -7,15 +10,15 @@ You can use 3D pen for merging parts together or some other suitable tools like 
 - 3D Printing and Friction Welding: Attaching 3D Printed Parts with Heat: https://www.youtube.com/watch?v=Pa2DoE3sirU
 - Friction Welding 3D Prints Together using a Rotary Tool: https://www.youtube.com/watch?v=wghk6K7UgbM
 
-## Gluing 
+## Gluing
 
 - Glueing possibilities: https://3dprinting.stackexchange.com/questions/6723/what-glues-for-pla/6725#6725
 - 3d printing nerd (superglue, epoxy, 3d-gloop for PLA): https://www.youtube.com/watch?v=qfBLdiyoRdI
-  - pla 3d gloop: https://www.3dgloop.com/shop/pla-gloop 
+  - pla 3d gloop: https://www.3dgloop.com/shop/pla-gloop
     - safety data sheet: https://www.3dgloop.com/sds/
 - Gluing 3D Printed Parts – 8 Best Ways to Bond Your 3D Prints: https://all3dp.com/2/gluing-3d-printed-best-ways-bond-3d-prints/
 
-### Joining using part design 
+### Joining using part design
 Japanese Wood Joint
 - nice animation: https://twitter.com/farbodsaraf/status/1046206772795625472
 - 3d models: https://www.thingiverse.com/thing:169723
@@ -25,7 +28,7 @@ Japanese Wood Joint
 
 Postprocessing of 3D prints step-by-step: https://www.prusaprinters.org/postprocessing-of-3d-prints-step-by-step/
 
-## Smoothing 
+## Smoothing
 - PLA Smoothing 3D Prints with 3D Gloop: https://www.youtube.com/watch?v=vQc5TBPF8uw
   - [Vapor Smoothing 3D Printed Parts - PLA, colorFabb, XT, T-Glase, PET+](https://www.printedsolid.com/blogs/news/37035395-vapor-smoothing-3d-printed-parts-pla-colorfabb-xt-t-glase-pet) + [reddit](https://www.reddit.com/r/3Dprinting/comments/3aaddh/does_anyone_know_of_a_chemical_that_is_to_pla_as/)
 - Acetone for ABS (nail polisher)
@@ -39,6 +42,8 @@ Postprocessing of 3D prints step-by-step: https://www.prusaprinters.org/postproc
 - polyurethane: https://www.instructables.com/id/Easy-Way-to-Smooth-PLA-No-Sanding-No-Chemicals/
   - Fast Drying Polyurethane - Clear Satin
   - spray paint that bonds well to plastic
+
+- [[Weekend Project: Smooth the 3D Printed Layers Away with Polymer Clay|https://all3dp.com/1/weekend-project-smooth-the-3d-printed-layers-away-with-polymer-clay/]]
 
 ## Tools
 * [Modifi3d Pro is a Heated Tool for Finishing Your 3D Prints](https://all3dp.com/4/modifi3d-pro-heated-tool-finishing-3d-prints/) + [kickstarter](https://www.kickstarter.com/projects/steelmans/modifi3d-pro-enhanced-3d-print-finishing-tool)
@@ -54,7 +59,7 @@ Filament Dryer – All You Need to Know: https://m.all3dp.com/2/filament-dryer-a
 - How to keep your filament dry: Make a storage box: https://toms3d.org/2016/12/17/keep-filament-dry-make-storage-box/
   - video: https://www.youtube.com/watch?v=OY5n9q-wS7k
 
-- DIY Heated DryBox for 3D Printing filament - under $20: https://richrap.blogspot.com/2018/02/diy-heated-drybox-for-3d-printing.html 
+- DIY Heated DryBox for 3D Printing filament - under $20: https://richrap.blogspot.com/2018/02/diy-heated-drybox-for-3d-printing.html
   - video: https://www.youtube.com/watch?v=RvTTQqqWIWA
   - all3dp: https://all3dp.com/weekend-project-a-diy-heated-drybox-for-3d-printing-filament-storage/
 
@@ -84,3 +89,9 @@ Ceramics:
 
 ## 3D Scanner
 - [3d-digitizer](http://blog.dzl.dk/2018/08/21/3d-digitizer/) + [hackaday](https://hackaday.com/2018/12/21/manual-3d-digitizer-works-a-bit-like-3-dimensional-measuring-tape/)
+
+# Printing issues
+* [[3D Print Stringing – 5 Easy Ways to Prevent It|https://all3dp.com/2/3d-print-stringing-easy-ways-to-prevent-it/]]
+
+# Printer parts
+* [[What’s a Stepper Motor Driver & Why Do I Need It?|https://all3dp.com/2/what-s-a-stepper-motor-driver-why-do-i-need-it/]]
