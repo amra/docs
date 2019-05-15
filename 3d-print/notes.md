@@ -28,6 +28,8 @@ Japanese Wood Joint
 
 Postprocessing of 3D prints step-by-step: https://www.prusaprinters.org/postprocessing-of-3d-prints-step-by-step/
 
+3dHubs - Post processing for FDM printed parts: https://www.3dhubs.com/knowledge-base/post-processing-fdm-printed-parts
+
 ## Smoothing
 - PLA Smoothing 3D Prints with 3D Gloop: https://www.youtube.com/watch?v=vQc5TBPF8uw
   - [Vapor Smoothing 3D Printed Parts - PLA, colorFabb, XT, T-Glase, PET+](https://www.printedsolid.com/blogs/news/37035395-vapor-smoothing-3d-printed-parts-pla-colorfabb-xt-t-glase-pet) + [reddit](https://www.reddit.com/r/3Dprinting/comments/3aaddh/does_anyone_know_of_a_chemical_that_is_to_pla_as/)
@@ -91,7 +93,16 @@ Ceramics:
 - [3d-digitizer](http://blog.dzl.dk/2018/08/21/3d-digitizer/) + [hackaday](https://hackaday.com/2018/12/21/manual-3d-digitizer-works-a-bit-like-3-dimensional-measuring-tape/)
 
 # Printing issues
-* [[3D Print Stringing – 5 Easy Ways to Prevent It|https://all3dp.com/2/3d-print-stringing-easy-ways-to-prevent-it/]]
+* [Prusa 3D - Assembly or Settings related problems](https://help.prusa3d.com/category/q5h02umuc6-assembly-settings)
+  * [layer shifting](https://www.prusa3d.com/layer-shifting/)
+* [A visual Ultimaker troubleshooting guide](https://support.3dverkstan.se/article/23-a-visual-ultimaker-troubleshooting-guide)
+  * [guides](https://support.3dverkstan.se/category/31-guides)
+* [Ultimaker Print quality issues](https://ultimaker.com/en/resources/18785-print-quality-issues)
+  * [Ultimaker manuals](https://ultimaker.com/en/resources/manuals)
+* [Stringing – 5 Easy Ways to Prevent It](https://all3dp.com/2/3d-print-stringing-easy-ways-to-prevent-it/)
+
+* [Simplify3D - Print Quality Troubleshooting Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/)
+* [RepRap - Print Troubleshooting Pictorial Guide](https://reprap.org/wiki/Print_Troubleshooting_Pictorial_Guide)
 
 # Printer parts
-* [[What’s a Stepper Motor Driver & Why Do I Need It?|https://all3dp.com/2/what-s-a-stepper-motor-driver-why-do-i-need-it/]]
+* [What’s a Stepper Motor Driver & Why Do I Need It?}](https://all3dp.com/2/what-s-a-stepper-motor-driver-why-do-i-need-it/)
