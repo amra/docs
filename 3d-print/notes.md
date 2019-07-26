@@ -104,5 +104,8 @@ Ceramics:
 * [Simplify3D - Print Quality Troubleshooting Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/)
 * [RepRap - Print Troubleshooting Pictorial Guide](https://reprap.org/wiki/Print_Troubleshooting_Pictorial_Guide)
 
+## Guides
+- [Bed Leveling Guide](http://diy3dprinting.blogspot.com/2019/07/bed-leveling-guide-by-billie-ruben.html) by Billie Ruben
+
 # Printer parts
 * [What’s a Stepper Motor Driver & Why Do I Need It?}](https://all3dp.com/2/what-s-a-stepper-motor-driver-why-do-i-need-it/)
