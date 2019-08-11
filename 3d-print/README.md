@@ -89,6 +89,8 @@ Models for 3d printing
 - [woodworking jigs](https://youtu.be/lpc5kiBCOV8)
 - [Six-Axis Robot Arm](https://www.thingiverse.com/thing:3327968) + [all3dp](https://all3dp.com/2/weekend-project-six-axis-robot-arm/)
 - [LIGHT UP YOUR 3D PRINTS WITH LEDS AND BULBS!](https://www.prusaprinters.org/3d-printing-lamps-and-embedding-led-lights/) by prusaprinters
+- Computer control
+  - [3D print a media control volume knob for your computer](https://blog.prusaprinters.org/3d-print-an-oversized-media-control-volume-knob-arduino-basics/)
 
 ### Closed source
 - [This Man 3D-Printed His Own Sports Wheelchair](https://www.youtube.com/watch?v=V6lTUFkoHnE)
