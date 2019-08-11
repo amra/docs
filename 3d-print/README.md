@@ -52,6 +52,11 @@ Models for 3d printing
     - [all3dp article](https://all3dp.com/researchers-smartphone-microscope/)
   - [FlyPi](https://open-labware.net/projects/flypi/)
     - [FlyPi Offers Abundant Research Opportunities for a Cheap Price](https://all3dp.com/flypi-a-3d-printed-and-open-source-microscope-and-lab-costing-just-e100/)
+- Telescope
+  - [telescope prime](https://www.telescopeprime.pl/)
+  - [Ultrascope](http://www.openspaceagency.com/ultrascope)
+  - [ABSDBS-8" ver. 0.71b](https://www.thingiverse.com/thing:2492121)
+  - [PiKon](https://pikonic.com/)
 - [Shishi Odoshi "Deer Scarer" Japanese Water Fountain](https://www.thingiverse.com/thing:2875176)
 - Camera
   - [DIO ThermoCam](https://github.com/maxritter/DIY-Thermocam) + [makezine.com](https://makezine.com/projects/diy-thermocam/)
