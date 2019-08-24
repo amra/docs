@@ -87,6 +87,8 @@ Models for 3d printing
 - [3D Printed X-Ray Machine](https://hackaday.io/project/162928-3d-printed-x-ray-machine) + [hackaday.com](https://hackaday.com/2018/12/24/ambitious-homebrew-x-ray-machine-reveals-what-lies-within/)
 - [woodworking jigs](https://youtu.be/lpc5kiBCOV8)
 - [Six-Axis Robot Arm](https://www.thingiverse.com/thing:3327968) + [all3dp](https://all3dp.com/2/weekend-project-six-axis-robot-arm/)
+- Medical
+  - [Otoscope](https://github.com/GliaX/Otoscope) + [assembly video](https://www.youtube.com/watch?v=9h2voI1ipZM)
 - Electronics
   - [3D print a media control volume knob for your computer](https://blog.prusaprinters.org/3d-print-an-oversized-media-control-volume-knob-arduino-basics/) by Prusa Printers
   - [DIY 3D Printed Headphones](https://www.instructables.com/id/DIY-3D-Printed-Headphones/)
