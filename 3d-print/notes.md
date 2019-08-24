@@ -30,6 +30,8 @@ Postprocessing of 3D prints step-by-step: https://www.prusaprinters.org/postproc
 
 3dHubs - Post processing for FDM printed parts: https://www.3dhubs.com/knowledge-base/post-processing-fdm-printed-parts
 
+[Finishing 3D Prints](https://www.youtube.com/watch?v=ELfaQ8juSM8) - sanding, coating, vapour smoothing
+
 ## Smoothing
 - PLA Smoothing 3D Prints with 3D Gloop: https://www.youtube.com/watch?v=vQc5TBPF8uw
   - [Vapor Smoothing 3D Printed Parts - PLA, colorFabb, XT, T-Glase, PET+](https://www.printedsolid.com/blogs/news/37035395-vapor-smoothing-3d-printed-parts-pla-colorfabb-xt-t-glase-pet) + [reddit](https://www.reddit.com/r/3Dprinting/comments/3aaddh/does_anyone_know_of_a_chemical_that_is_to_pla_as/)
