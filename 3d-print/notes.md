@@ -69,6 +69,8 @@ Filament Dryer – All You Need to Know: https://m.all3dp.com/2/filament-dryer-a
 - DIY Heated DryBox for 3D Printing filament - under $20: https://richrap.blogspot.com/2018/02/diy-heated-drybox-for-3d-printing.html
   - video: https://www.youtube.com/watch?v=RvTTQqqWIWA
   - all3dp: https://all3dp.com/weekend-project-a-diy-heated-drybox-for-3d-printing-filament-storage/
+- [Filament dryboxes and alternative spool holders – not only for MMU2S
+](https://blog.prusaprinters.org/dryboxes-and-alternative-spool-holders-not-only-for-multimaterial-upgrade/) by Prusa3d
 
 ## Pro
 - Filament dryer: https://m.all3dp.com/2/filament-dryer-all-you-need-to-know/
