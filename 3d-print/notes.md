@@ -49,6 +49,9 @@ Postprocessing of 3D prints step-by-step: https://www.prusaprinters.org/postproc
 
 - [[Weekend Project: Smooth the 3D Printed Layers Away with Polymer Clay|https://all3dp.com/1/weekend-project-smooth-the-3d-printed-layers-away-with-polymer-clay/]]
 
+## Strength
+- [Annealing PLA Prints for Strength – 2 Easy Ways](https://all3dp.com/2/annealing-pla-prints-for-strength-easy-ways/)
+
 ## Tools
 * [Modifi3d Pro is a Heated Tool for Finishing Your 3D Prints](https://all3dp.com/4/modifi3d-pro-heated-tool-finishing-3d-prints/) + [kickstarter](https://www.kickstarter.com/projects/steelmans/modifi3d-pro-enhanced-3d-print-finishing-tool)
 * [3d pen 3DSimo](https://3dsimo.com/)
