@@ -176,6 +176,7 @@ Software to generate cookie cutter models:
 
 ## Gaming
 * [D&D – 3D Print Your Own Dungeons & Dragons Pieces](https://all3dp.com/2/d-d-3d-print-your-own-dungeons-dragons-pieces/)
+* [Artisan Guild](https://www.patreon.com/ArtisanGuild) is creating Excellent 3d Printable Miniatures for your games! On Patreon
 ### OpenForge
 - http://masterwork-tools.com/openforge/
 - http://www.thingiverse.com/devonjones/collections/openforge
