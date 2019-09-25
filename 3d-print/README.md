@@ -76,6 +76,7 @@ Models for 3d printing
   - [thingiverse - gorillapod](https://www.thingiverse.com/tag:gorillapod)
 - Wind Turbine
   - [Wind Turbine 12V](https://www.thingiverse.com/thing:3138588) + [hackaday](https://hackaday.com/2018/10/15/wind-turbine-pushes-limits-of-desktop-3d-printing/)
+  - [3D Print A Complete Wind Generator](https://hackaday.com/2019/09/19/3d-print-a-complete-wind-generator/) + [github](https://github.com/shadowtag/TroysLab/tree/master/Scoopy)
 - Planter & pot
   - [Hello Kitty Planter - now small and medium size!](https://www.thingiverse.com/thing:3128137)
   - [Smiling Owl Pot v2](https://www.thingiverse.com/thing:2386370)
