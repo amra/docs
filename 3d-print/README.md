@@ -103,6 +103,7 @@ Models for 3d printing
 ## List
 - [30 Best Raspberry Pi Projects (You Can DIY with a 3D Printer)](https://all3dp.com/1/best-raspberry-pi-projects-3d-printer/)
 - [3D Printed Cup – 5 Best Curated Models](https://all3dp.com/2/3d-printed-cup-best-curated-models/)
+- [3D Printed Terminator: 6 Great Models to Thwart Skynet](https://all3dp.com/2/3d-printed-terminator-great-models-to-thwart-skynet/)
 
 ## Places
 - [3D Print Your Local Area from Google Earth using Still Shots and Photogrammetry](https://all3dp.com/4/3d-print-local-area-google-earth-using-still-shots-photogrammetry/) + [reddit.com](https://www.reddit.com/r/3Dprinting/comments/9410ab/coworkers_and_i_figured_out_how_to_make_fullcolor/)
